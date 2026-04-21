@@ -7,6 +7,7 @@ A collection of Claude.ai skill files for real-world developer workflows.
 | Skill | Stack | Description |
 |---|---|---|
 | [twilio-gcp-cloud-functions](./twilio-gcp-cloud-functions) | Twilio · GCP · BigQuery | Automate daily Twilio bulk exports to BigQuery |
+| [gupshup-whatsapp](./gupshup-whatsapp) | Gupshup · WhatsApp Business API · GCP · BigQuery | Full Gupshup WABA integration — templates, UUID resolution, PubSub, inbound webhooks, BQ logging |
 
 ## How to use a skill
 1. Download the `.skill` file from the skill's folder
